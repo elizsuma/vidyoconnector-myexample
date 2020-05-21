@@ -22,9 +22,10 @@ import android.widget.ProgressBar;
 import android.widget.TextView;
 import android.widget.ToggleButton;
 
-//import com.NOK.NOK.R;
-//This is the APP IDENTIFIER FROM OS
+/*import com.NOK.NOK.R;
+This is the APP IDENTIFIER FROM OS*/
 import com.outsystemscloud.elizabethsumaldetesi.Vidyo.IO;
+
 /*
 import com.vidyo.vidyoiohybrid.R;
 /*import com.outsystemsenterprise.medtronicdev.R;*/
