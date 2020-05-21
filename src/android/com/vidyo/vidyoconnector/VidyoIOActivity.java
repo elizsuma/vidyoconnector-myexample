@@ -24,7 +24,7 @@ import android.widget.ToggleButton;
 
 /*import com.NOK.NOK.R;
 This is the APP IDENTIFIER FROM OS*/
-import com.outsystemscloud.elizabethsumaldetesi.Vidyo.IO;
+import com.outsystemscloud.elizabethsumaldetesi.Vidyo.IO.R;
 
 /*
 import com.vidyo.vidyoiohybrid.R;
