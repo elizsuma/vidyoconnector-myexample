@@ -100,11 +100,11 @@ public class VidyoIOActivity extends Activity implements Connector.IConnect, Con
         mToolbarLayout = (LinearLayout) findViewById(R.id.toolbarLayout);
         mVideoFrame = (FrameLayout) findViewById(R.id.videoFrame);
         mToggleToolbarFrame = (FrameLayout) findViewById(R.id.toggleToolbarFrame);
-        /*mHost = (EditText) findViewById(R.id.hostTextBox);
+        mHost = (EditText) findViewById(R.id.hostTextBox);
         mDisplayName = (EditText) findViewById(R.id.displayNameTextBox);
         mToken = (EditText) findViewById(R.id.tokenTextBox);
         mResourceId = (EditText) findViewById(R.id.resourceIdTextBox);
-        mToolbarStatus = (TextView) findViewById(R.id.toolbarStatusText);*/
+        mToolbarStatus = (TextView) findViewById(R.id.toolbarStatusText);
         mConnectionSpinner = (ProgressBar) findViewById(R.id.connectionSpinner);
         mSelf = this;
 
